@@ -1,0 +1,7 @@
+SaleID,Product,Quantity,Price,SaleDate,Region
+1,Keyboard,5,20,1/10/2026,North
+2,Mouse,10,15,1/11/2026,South
+3,Monitor,2,150,1/12/2026,East
+4,Laptop,1,800,1/13/2026,West
+5,Keyboard,3,20,1/14/2026,North
+6,Mouse,7,15,1/15/2026,South
